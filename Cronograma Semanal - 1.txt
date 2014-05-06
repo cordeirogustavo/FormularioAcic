@@ -1,0 +1,3 @@
+Na primeira semana do dia 05/05/2014 ao 11/05/2014 serão inicadas as atividades, reunião do grupo, onde será desenvolvido
+o layout do formulário, por Gustavo, responsável pela view, será montada a estrutura do model por Diego, e será montada a
+estrutura do Controller por Juliano.
