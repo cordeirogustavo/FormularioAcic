@@ -1,4 +1,0 @@
-Adriany Barbosa 	  		RA: 8904 -- GERENTE
-Gustavo De Abreu Cordeiro 		RA: 8860 -- VIEW
-Diego Biazin 				RA: 8901 -- MODEL
-Juliano Maciel 				RA: 9110 -- CONTROLLER

@@ -1,0 +1,14 @@
+Serão utilizadas as seguintes tecnologias:
+
+PHP
+CSS
+HTML
+Framework Twitter Bootstrap
+MySql
+
+Os programas para gerenciar as tecnologias:
+NetBeans/Notepad++
+EasyPhp
+Workbench
+Mysql CommandLine
+Google Chrome
