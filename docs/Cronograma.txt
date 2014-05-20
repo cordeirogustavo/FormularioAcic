@@ -5,11 +5,12 @@ Será montada a estrutura do model por Diego.
 Será montada a estrutura do Controller por Juliano.
 
 Semana 2:
-Será criado o banco de dados, ainda estamos aguardando as regras para validação
-por exemplo como campo que não podem ser nullos, tamanho de campos entre outros, após isso iremos inserir as validações
-no modelo mvc
+Será criado o banco de dados, ainda estamos aguardando as regras para validação(ADIADO)
+por exemplo como campo que não podem ser nullos, tamanho de campos entre outros.
+SERÁ POSTADO O DER FEITO PELO WORKBENCH, como as validações demoraram pra chegar, os campos no banco ainda nao estão completamente validados.
 
 Semana 3:
+Validação do banco, adicionar os dados do controller e model
 Será integrado o formulário desenvolvido na View com o controler e model, já validados.
 
 Semana 4:
